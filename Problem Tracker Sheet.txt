@@ -1,0 +1,102 @@
+________________Problems To Learn From ____________________							__________Completed__________
+Print your name and age in one line using f-strings.								            TRUE
+Take input of two numbers and print their sum.								                    TRUE
+Convert Celsius to Fahrenheit.								                                    TRUE
+Swap two variables without using a third variable.								                TRUE
+Check the data type of different variables								                        TRUE
+Get two numbers as input and print the larger one.								                TRUE
+Convert a string number (“123”) to int, multiply by 5.								            TRUE
+Round a floating number to 2 decimal places.							                    	TRUE
+Check if a given number is odd or even.							                             	TRUE
+Take a sentence input and print how many characters it contains.								TRUE
+Reverse a string without using slicing.							                            	TRUE
+Count vowels in a string.							                                        	TRUE
+Check if a string is a palindrome.						                                 		TRUE
+Find the frequency of each character in a string								                TRUE
+Remove all spaces from a string.								                                TRUE
+Convert the first letter of every word to uppercase (title case).								TRUE
+Replace every vowel in a string with “*”.								                        TRUE
+Check if a substring exists inside a string (without using in).								    TRUE
+Print the ASCII value of every character in a string.								            TRUE
+Find the longest word in a sentence.								                            TRUE
+Write a program for a simple calculator (+, -, *, /).								            TRUE
+Given 3 numbers, calculate the average.								                            TRUE
+Write a program that uses logical operators to check if a number is between 10 and 20.			TRUE
+Compare two strings lexicographically.								                            TRUE
+Find quotient and remainder without using / or %.								                TRUE
+Write a program using membership operator to check if a letter is in a string.				    TRUE
+Check if two variables refer to the same object (use is).								        TRUE
+Check if a number is divisible by both 3 and 5.								                    TRUE
+Compute the area of a triangle.								                                    TRUE
+Find the greatest of 3 numbers.								                                    TRUE
+Check if a character is alphabet, digit, or symbol.								                TRUE
+Check leap year.								                                                TRUE
+Print “Positive”, “Negative” or “Zero”.								                            TRUE
+Menu-driven program for math operations.								                        TRUE
+Check if a number has 3 digits.								                                    TRUE
+Take marks of 5 subjects and print grade (A/B/C/D/F).								            TRUE
+Check if a number is prime.								                                        TRUE
+Get a day number (1–7) and print weekday name.								                    TRUE
+Simple password validation (length > 6, contains number).								        TRUE
+Print numbers 1 to 100.								                                            TRUE
+Print even numbers from 1 to 50.								                                TRUE
+Sum of numbers from 1 to N.								                                        TRUE
+Factorial of a number.								                                            TRUE
+Multiplication table of a number selected by the user.								            TRUE
+Count digits in an integer.								                                        TRUE
+Reverse a number using a loop.								                                    TRUE
+Sum of digits of a number.								                                        TRUE
+Generate first N Fibonacci numbers.								                                TRUE
+Print all prime numbers from 1 to 100.								                            TRUE
+Find LCM of two numbers using while loop.								                        TRUE
+Print triangle patterns (Atleast 3) - Left , Right and Centre Aligned						    TRUE
+Count how many times a character appears in string (using loop).								TRUE
+Remove duplicates from a string (keep first occurrences).								        TRUE
+Sum of all elements in a list.								                                    TRUE
+Find max and min in a list without using built-in functions.								    TRUE
+Remove duplicates from a list.								                                    TRUE
+Reverse a list without using reverse().								                            TRUE
+Count even and odd numbers in a list								                            TRUE
+Print squares of list elements using a loop.								                    TRUE
+Merge two lists without using + operator.								                        TRUE
+Find the second largest number in a list.								                        TRUE
+Create a list of 10 random numbers and sort it								                    TRUE
+List comprehension: create a list of squares for numbers 1–20.								    TRUE
+Convert list to tuple and tuple to list.								                        TRUE
+Find frequency of elements in a tuple.								                            TRUE
+Unpack a tuple into variables.								                                    TRUE
+Create a set and add/remove elements.								                            TRUE
+Find union and intersection of two sets.								                        TRUE
+Remove duplicates from a list using sets.								                        TRUE
+Check if two sets are disjoint.								                                    TRUE
+Create a set of unique characters from a string.								                TRUE
+Count vowels using a set.								                                        TRUE
+Find difference between two sets.								                                TRUE
+Count frequency of words in a sentence.								                            TRUE
+Create a dictionary of student marks and print highest scorer.								    TRUE
+Merge two dictionaries.								                                            TRUE
+Invert a dictionary (keys become values and vice versa).								        TRUE
+Check if a key exists in dictionary.								                            TRUE
+Remove a key-value pair.								                                        TRUE                            
+Print all keys and values line by line.								                            TRUE
+Convert two lists into a dictionary.								                            TRUE
+Find the key with the smallest value.								                            TRUE
+Create a dictionary of squares for numbers 1–10.								                TRUE
+Write a function to check if a number is prime.								                    TRUE
+Write a function to return factorial.								                            TRUE
+Write a function to check palindrome.								                            TRUE
+Write a function to calculate nCr (combinations).								                TRUE
+Write a function that takes variable arguments and returns their sum.						    TRUE
+Read a file and count the number of lines.								                        TRUE
+Write a list of names to a file.								                                TRUE
+Read a file and print the longest line.								                            TRUE
+Append user-entered text to a file until user types “stop”.								        TRUE
+Handle division by zero.								                                        TRUE
+Handle invalid input for integer conversion.								                    TRUE
+Raise an exception if age < 18.								                                    TRUE
+Create a class “Student” with name, age. Add a method to display info.							TRUE
+Create a class “BankAccount” with deposit & withdraw functions.								    TRUE
+Create a “Calculator” class that performs +, -, *, /.								            TRUE
+Create a “Calculator” class that performs +, -, *, / by taking 'n' numbers						TRUE
+Build a" A simple text-based Mini ATM simulator that lets users check balance,                  TRUE
+deposit money, withdraw funds with validation, and exit the system."							
